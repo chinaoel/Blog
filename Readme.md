@@ -70,6 +70,21 @@ npm run start
 
 ## ScreenShots
 
+1. Guest Main Page
+   ![image info](./screenshots/NonLoggedIn_Main.png)
+
+2. Guest Blog Page
+   ![image info](./screenshots/NonLoggedIn_Blog.png)
+
+3. Owner Main Page
+   ![image info](./screenshots/LoggedIn_Main.png)
+
+4. Owner Blog Page
+   ![image info](./screenshots/LoggedIn_Blog.png)
+
+5. Modal
+   ![image info](./screenshots/Modal.png)
+
 ## Future Work
 
 1. Optimize Web Vital Metrics
